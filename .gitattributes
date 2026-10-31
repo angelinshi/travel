@@ -1,0 +1,2 @@
+# Embedded photo data makes textual diffs of guide pages impractical.
+*-guide.html -diff
